@@ -1,4 +1,6 @@
 # Slack Onboarding Example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiny-bot/default-slack-api.exe.svg)](https://greenkeeper.io/)
 This project demonstrates how to build an Onboarding App using Slack's Events API. It's meant to serve only as an example through code.
 
 ![onboarding](https://cloud.githubusercontent.com/assets/35968/17162650/5703766c-537d-11e6-9c36-3e780d06f77c.gif)
